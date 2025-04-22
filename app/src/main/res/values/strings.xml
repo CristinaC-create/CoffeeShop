@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="begin_your_brew">Begin Your Brew</string>
+    <string name="made_to_match_your_mood">Made to Match Your Mood</string>
+    <string name="start">Start</string>
+    <string name="search">Search...</string>
+    <string name="kickstart_your_day_with_a_coffee_to_go">Kickstart your day with a coffee to go!</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="see_all">See All</string>
+    <string name="available_offers">Available Offers</string>
+    <string name="grab_your_coffee_this_morning">Grab your coffee this morning</string>
+    <string name="popular">Popular</string>
+    <string name="category">Category</string>
+</resources>
